@@ -1,0 +1,2 @@
+# AdBlockRule
+Personal Adblock Rules
